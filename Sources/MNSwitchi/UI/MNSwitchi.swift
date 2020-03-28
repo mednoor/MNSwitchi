@@ -77,7 +77,7 @@ public class MNSwitchiView: UIView {
                            belowSubview: self.stackView)
     }
     
-    public func render(with content: MNSwitchiContent,
+    public func render(content: MNSwitchiContent,
                        appearance: MNSwitchiAppearance,
                        options: MNSwitchiOptions) {
         
