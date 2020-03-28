@@ -2,6 +2,18 @@
 
 Custom animated segmented control written in Swift 5.2
 
+<p align="center">
+	<img src="http://g.recordit.co/7ikQQl1LCK.gif" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/language-swift5.2-f48041.svg?style=flat"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat"/>
+  <a href="https://twitter.com/a_moha">
+  	<img src="https://img.shields.io/badge/contact-@a_moha-blue.svg?style=flat" alt="Twitter: @a_moha" />
+  </a>
+</p>
+
 ## Requirements
 
 - Xcode 11.4
