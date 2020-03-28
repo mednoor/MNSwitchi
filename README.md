@@ -9,6 +9,14 @@ Custom animated segmented control written in Swift 5.2
 - Swift 5.2
 
 ## Installation
+#### Swift Package Manager
+```swift
+.package(
+    url: "https://github.com/mednoor/MNSwitchi.git",
+    from: "0.2.0"
+)
+```
+
 
 ## Usage
 #### Import `MNSwitchi` module
